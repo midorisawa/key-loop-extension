@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "キー変更・ループ",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "動画や音声のキーを変えて、区間を繰り返し練習する。",
   "minimum_chrome_version": "116",
   "permissions": ["activeTab", "scripting", "tabCapture", "offscreen"],
